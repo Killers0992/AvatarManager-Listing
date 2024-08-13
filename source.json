@@ -1,0 +1,21 @@
+{
+    "name":"AvatarManager Listing",
+    "id":"com.killers0992.avatarmanager.listing",
+    "url":"https://killers0992.github.io/avatarmanager-listing/index.json",
+    "author":{
+        "email":"killers0992@gmail.com",
+        "name":"Killers0992",
+        "url":"https://kilers.dev"
+    },
+    "description":"Listing for AvatarManager",
+    "infoLink":{
+        "url":"http://github.com/killers0992/avatarmanager-listing",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+      "killers0992/avatarmanager",
+      "killers0992/avatarmanager-deuzear",
+      "killers0992/avatarmanager-nardoragon"
+    ]
+}
