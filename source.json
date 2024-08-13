@@ -1,7 +1,7 @@
 {
     "name":"AvatarManager Listing",
     "id":"com.killers0992.avatarmanager.listing",
-    "url":"https://killers0992.github.io/avatarmanager-listing/index.json",
+    "url":"killers0992.github.io/AvatarManager-Listing/index.json",
     "author":{
         "email":"killers0992@gmail.com",
         "name":"Killers0992",
@@ -9,7 +9,7 @@
     },
     "description":"Listing for AvatarManager",
     "infoLink":{
-        "url":"http://github.com/killers0992/avatarmanager-listing",
+        "url":"http://github.com/killers0992/AvatarManager-Listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
